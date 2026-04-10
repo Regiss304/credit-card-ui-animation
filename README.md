@@ -54,4 +54,7 @@ The goal is to practice advanced CSS concepts such as transforms, perspective, a
 ```bash
 git clone https://github.com/your-username/credit-card-flip-ui.git
 ```
+## 🔗 Links
 
+- 🌐 Live Site: https://regiss304.github.io/credit-card-ui-animation/
+- 💻 Repository: https://github.com/Regiss304/credit-card-ui-animation/
